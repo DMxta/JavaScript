@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "core-util-is": "^1.0.3",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
